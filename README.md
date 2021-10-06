@@ -1,5 +1,5 @@
 <h1>
-<a href="#">
+<a href="https://thomazgg.github.io/snake_game/">
   <p align="center">
     Site para testar o Snake-Game 🐍
   </p>
