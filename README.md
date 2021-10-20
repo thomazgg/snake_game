@@ -18,10 +18,9 @@ Um site front-end do Snake-Game com Javascript. 🐍
 ## 📣 Funcionalidades
 
 <p align="justify">
-✔️ Open Tutorial Button
+✔️ Repaly Button
 </br>✔️ Snake Movement
 </br>✔️ Score
-</br>✔️ Get | Post
 </p>
 
 [![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png) ](#table-of-contents)
